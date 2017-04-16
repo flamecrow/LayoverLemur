@@ -1,0 +1,17 @@
+{
+  "name": "lemur",
+  "version": "1.0.0",
+  "description": "Layover Lemur",
+  "main": "index.js",
+  "scripts": {
+    "test": "lemur"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "express": "^4.10.2",
+    "restify": "^4.3.0",
+    "socket.io": "^1.7.3"
+  }
+}
